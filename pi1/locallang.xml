@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+  <meta type="array">
+    <type>module</type>
+    <description>Language labels for plugin &quot;tx_sql2typo_pi1&quot;</description>
+  </meta>
+  <data type="array">
+    <languageKey index="default" type="array">
+      <label index="back">Back</label>
+      <label index="drs_security">SECURITY WARNING: Please deactivate the DRS - Development Reporting System - on every operating system!</label>
+      <label index="drs_sql_prompt">The SQL query has an error. Please use the DRS - the Development Reporting System. The DRS will display the query and the error.</label>
+      <label index="error_h1">Error</label>
+      <label index="error_prompt">There is an undefined error. Did you configured TypoScript properly?</label>
+      <label index="error_fields_h1">Error: Missing Fields</label>
+      <label index="error_fields_prompt">There isn't any field configured in the TypoScript template.</label>
+      <label index="error_sql_h1">SQL Error</label>
+      <label index="error_sql_prompt">The SQL query has an error. Please use the DRS - the Development Reporting System. The DRS will display the query and the error.</label>
+      <label index="error_sql_select">The SELECT clause has an error. You get help in the log of devlog.</label>
+      <label index="error_tsTemplate_h1">TypoSript Error</label>
+      <label index="error_tsTemplate_prompt">There isn't any template.</label>
+      <label index="phrase_configure">Please configure</label>
+      <label index="phrase_configure_alternate">Change it? Please configure</label>
+      <label index="phrase_sql_affected_rows">affected rows</label>
+    </languageKey>
+    <languageKey index="de" type="array">
+      <label index="back">Zurueck</label>
+      <label index="drs_security">SICHERHEITS-HINWEIS: Bitte deaktivieren Sie das DRS - Development Reporting System - auf jedem operativem System. Die Fehlermeldung unten ist ein Sicherheitsrisiko!</label>
+      <label index="drs_sql_prompt">Die SQL-Abfrage enthaelt einen Fehler. Bitte benutzen Sie das DRS - das Development Reporting System. DRS zeigt die SQL-Abfrage und den Fehler.</label>
+      <label index="error_h1">Fehler</label>
+      <label index="error_prompt">Es ist ein nicht definierter Fehler aufgetreten. Haben Sie TypoSCript richtig konfiguriert?</label>
+      <label index="error_fields_h1">Fehler: Keine Felder</label>
+      <label index="error_fields_prompt">Es sind im TypoScript-Template keine Felder definiert.</label>
+      <label index="error_sql_h1">SQL Fehler</label>
+      <label index="error_sql_prompt">Die SQL-Abfrage enthaelt einen Fehler. Bitte benutzen Sie das DRS - das Development Reporting System. DRS zeigt die SQL-Abfrage und den Fehler.</label>
+      <label index="error_sql_select">Die SELECT-Anweisung hat einen Fehler. Weitere Hinweise erhalten Sie in den Log-Eintraegen von devlog.</label>
+      <label index="error_tsTemplate_h1">TypoSript Fehler</label>
+      <label index="error_tsTemplate_prompt">Es gibt kein TypoScript-Template.</label>
+      <label index="phrase_configure">Bitte konfigurieren Sie</label>
+      <label index="phrase_configure_alternate">Ändern? Bitte konfigurieren Sie</label>
+      <label index="phrase_sql_affected_rows">betroffene Datensätze</label>
+    </languageKey>
+  </data>
+</T3locallang>
